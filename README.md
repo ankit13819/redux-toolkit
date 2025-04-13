@@ -66,7 +66,6 @@ src/
 ```
 ### 🌐 Example: Async Thunk for API Calls
 
-### 🌐 Example: Async Thunk for API Calls
 ```js
 // userSlice.js
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
